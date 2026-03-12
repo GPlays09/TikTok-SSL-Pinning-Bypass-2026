@@ -1,7 +1,9 @@
 # TikTok-SSL-Pinning-Bypass-2026
 Just made the TikTok bypass for a project I've worked on, I don't need it anymore
 
-<img width="1374" height="918" alt="image" src="https://github.com/user-attachments/assets/7385c591-ef48-4097-82d2-8030a284080e" />
+tested on app version: v44.2.3
+
+<img width="1373" height="920" alt="image" src="https://github.com/user-attachments/assets/04eec6ae-0517-4981-9d93-7f1436fbab37" />
 
 proof: https://youtu.be/8VcU8tE4o84
 
