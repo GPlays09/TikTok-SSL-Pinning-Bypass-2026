@@ -6,5 +6,8 @@ Just made the TikTok bypass for a project I've worked on, I don't need it anymor
 proof: https://youtu.be/8VcU8tE4o84
 
 price: 300$ crypto or exchange (steam games or other digital valuables)
+limited slots; slots status: (0/20) used, meaning 20 free slots remaining.
+
+Can easily be made into a permantent shippable .apk by writing the patch into the TikTok files.
 
 contact: t.me/gr3gtp
